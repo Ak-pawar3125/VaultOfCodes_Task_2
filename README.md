@@ -36,3 +36,5 @@ Fonts and colors close to the original style
 # Preview:
 
 ![alt text](image-1.png)
+
+Link: https://akankshap-vaultofcodes-task-2.netlify.app/
